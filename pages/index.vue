@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <Hero class="font-display"/>
 </template>
 
 <script>

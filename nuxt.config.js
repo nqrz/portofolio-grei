@@ -1,3 +1,5 @@
+import { join }from 'path';
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -18,6 +20,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '~/assets/css/main.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
