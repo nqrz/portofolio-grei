@@ -1,5 +1,12 @@
 <template>
-  <Hero class="font-display"/>
+  <div class="bg-moonlight">
+    <Hero/>
+    <MyProjects />
+    <OtherProjects />
+    <Email />
+    <AboutMe />
+    <Tool />
+  </div>
 </template>
 
 <script>

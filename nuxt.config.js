@@ -3,7 +3,7 @@ import { join }from 'path';
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'portofolio-grei',
+    title: 'Greialdy',
     htmlAttrs: {
       lang: 'en'
     },

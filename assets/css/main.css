@@ -61,3 +61,16 @@ h5 {
 h6 {
   @apply text-lg lg:text-2xl;
 }
+
+.btn {
+  @apply bg-secondary py-1 px-4 font-semibold text-black rounded;
+  transition: 0.2s ease-in-out all;
+}
+
+.btn:hover {
+  @apply transform scale-110;
+}
+
+.btn:active {
+  @apply transform scale-90;
+}
