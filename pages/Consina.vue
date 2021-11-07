@@ -1,5 +1,6 @@
 <template>
-  <div>
-    
+  <div class="bg-moonlight">
+    <Header />
+    <Wireframe />
   </div>
 </template>

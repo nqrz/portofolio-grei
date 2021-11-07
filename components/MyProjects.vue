@@ -28,7 +28,9 @@
         </div>
         <h6 class="font-semibold mt-4">Consina</h6>
         <h6>(UI Web Design)</h6>
-        <button class="btn mt-4">View</button>
+        <NuxtLink to="/consina">
+          <button class="btn mt-4">View</button>
+        </NuxtLink>
       </div>
     </div>
   </div>
