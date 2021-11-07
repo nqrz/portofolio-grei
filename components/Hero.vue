@@ -12,9 +12,10 @@
         <h6 class="font-light text-right">Fitra Aliyaditama</h6>
       </div>
       <div>
-        <button class="btn">About</button>
-        <button class="btn ml-20">Contact</button>
+        <button class="btn py-1 px-5 font-light uppercase">About</button>
+        <button class="btn py-1 px-5 font-light uppercase ml-20">Contact</button>
       </div>
     </div>
+    <button class="absolute right-48 top-28 z-20"><i class="fas fa-envelope text-4xl"></i></button>
   </div>
 </template>

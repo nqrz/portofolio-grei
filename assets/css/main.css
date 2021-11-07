@@ -62,8 +62,16 @@ h6 {
   @apply text-lg lg:text-2xl;
 }
 
+.flip-y {
+  transform: scaleY(-1);
+}
+
+.flip-x {
+  transform: scaleX(-1);
+}
+
 .btn {
-  @apply bg-secondary py-1 px-4 font-semibold text-black rounded;
+  @apply bg-secondary text-black rounded;
   transition: 0.2s ease-in-out all;
 }
 
